@@ -1,2 +1,3 @@
-# GettingAndCleaning
-Getting and Cleaning Data Course Project
+- To use this code save it as run_analysis.R at perticular location
+- Then to run this code, first source this code using source('location_source_code') e.g source('D:/DataScience_New/UCI HAR Dataset/run_analysis.R')
+- Once you source this code, invoke the function - run_analysis_function()
